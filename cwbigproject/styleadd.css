@@ -1,0 +1,29 @@
+.divforchoose{
+    width: 300px;
+    height: 200px;
+    color: white;
+    position: absolute;
+    left: 43%;
+    
+}
+
+.divforcard1{
+    position: absolute;
+    left: 33%;
+    top:15%;
+    width: 300px;
+    height: 200px;
+}
+
+
+.divforcard3{
+    position: absolute;
+    left: 53%;
+    top:15%;
+    width: 300px;
+    height: 200px;
+}
+
+body{
+    background-image: url("wallpaper.jpg");
+}

@@ -1,0 +1,23 @@
+body{
+    background-image: url("matrixx.jpg");
+}
+
+.link1{
+    width: 300px;
+    color:white;
+    height: 200px;
+    position: absolute;
+    top:65%;
+    left:34%;
+}
+
+
+.link2{
+    width: 300px;
+    color:white;
+    height: 200px;
+    position: absolute;
+    top:65%;
+    left:57%;
+}
+

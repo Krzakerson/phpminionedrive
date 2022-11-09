@@ -1,0 +1,22 @@
+table{
+    border-radius: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.formplace{
+    width: 300px;
+}
+
+.dirplace{
+    width: 300px;
+    position: absolute;
+    top:0%;
+    left:0%;
+}
+
+.tableandh4place{
+    position: absolute;
+    top:60%;
+    left:140%;
+}
