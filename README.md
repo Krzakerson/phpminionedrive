@@ -10,3 +10,5 @@ for example you can delete specific directories , or add images to directory and
 ![Zrzut ekranu 2022-11-09 231944](https://user-images.githubusercontent.com/92225516/200954619-823a3605-f0f9-47cc-bd7f-fbe06d8cc609.png)
 ![Zrzut ekranu 2022-11-09 232004](https://user-images.githubusercontent.com/92225516/200954628-7e427445-8575-4856-8495-6c810ff70da2.png)
 ![Zrzut ekranu 2022-11-09 232015](https://user-images.githubusercontent.com/92225516/200954642-ac8b84fc-992c-409e-9e32-fa1caee00915.png)
+![image](https://user-images.githubusercontent.com/92225516/201546054-bc4a19c6-4e2f-4ad9-90ad-bf8d4e3256de.png)
+
