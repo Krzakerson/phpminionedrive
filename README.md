@@ -3,6 +3,8 @@
 Hello welcome in phpminionedrive readme , this is simple web project that allows you tou login and decide what to do with ur files
 for example you can delete specific directories , or add images to directory and databse and then see gallery 
 
+IMOPRTANT ! If you want to have connection with data base u should create database "bazadanychobrazki" in your phpmyadmin and then import file images.sql
+
 
 ![Zrzut ekranu 2022-11-09 231834](https://user-images.githubusercontent.com/92225516/200954591-545cae04-3bdd-40d4-87c3-06dbf1428d8c.png)
 ![Zrzut ekranu 2022-11-09 231909](https://user-images.githubusercontent.com/92225516/200954604-c79dac93-d5f7-4f10-82dc-1d0556752a54.png)
