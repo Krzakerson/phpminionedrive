@@ -9,6 +9,7 @@
     <title>Document</title>
 </head>
 <body><center>
+    <font color = "white">
     <div class="formplace">
         
     <form method = "post">

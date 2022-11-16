@@ -20,7 +20,14 @@ if(isset($_POST["submit"]) && !empty($_FILES["file"]["name"])){
                 // Insert image file name into database
                 $insert = $db->query("INSERT into images (file_name, uploaded_on) VALUES ('".$fileName."', NOW())");
                 if($insert){
-                    $statusMsg = "The file <b>".$fileName. "</b> has been uploaded successfully." . $backlink;
+                    $statusMsg = "The file <b>".$fileName. "</b> has been uploaded successfully. You will be autoredirected after: 3s";
+                    for($i =0 ; $i < 3;$i++){
+                        sleep(1);
+                        if($i = 3){
+                            header("refresh:3;url=indextoupload.php" );
+                        }
+                    }                    
+                   
                 }else{
                     $statusMsg = "File upload failed, please try again." . $backlink;
                 } 

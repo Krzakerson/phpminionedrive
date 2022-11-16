@@ -24,5 +24,6 @@
       <input class = "btn btn-primary" type="submit" name="submit" value="Upload">
   </form>
   </div>
+  <h3><a  style= "color:white"href = "imageadd.php">Go back </a></h3>
   </body>
 </html>

@@ -16,6 +16,7 @@
     <div class="link2">
         <h2><a style = "color:white" href = "imageadd.php">Idz do galerii</a></h2>
     </div>
+    
     </form>
     <?php
     //https://www.youtube.com/watch?v=BO9Ee4Arvh4

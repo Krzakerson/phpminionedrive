@@ -19,7 +19,6 @@
 <body>
     <center>
     <h1>Welcome in my gallery web app</h1>
-
     <div class = "divforcard1">
     <div class="row">
     <div class="col s12 m7">
@@ -32,7 +31,7 @@
           <p>This is the place where you can see images from directory</p>
         </div>
         <div class="card-action">
-          <a href="#">Click to go and see gallery</a>
+          <a href="gallery.php">Click to go and see gallery</a>
         </div>
       </div>
     </div>

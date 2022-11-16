@@ -1,0 +1,3 @@
+Zrobic wyswietlanie obrazkow z opisem z bazy
+
+Na 6 usuwanie z bazy i usuwanie z uploadow
